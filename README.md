@@ -50,9 +50,4 @@ This project presents an **AI-powered platform** that helps students and job see
 - **Models**: Sentence-BERT (`all-MiniLM-L6-v2`), LLaMA 3.2 (via Ollama)
 - **Similarity**: TF-IDF, Cosine Similarity
 
-## ⚙️ Installation
 
-1️⃣ Clone the repository:
-```bash
-git clone https://github.com/deepthee-03/ai-career-simulator.git
-cd ai-career-simulator
